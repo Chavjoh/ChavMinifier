@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<configuration>
+	<debug active="1" />
+	<exclude>
+		<!--
+		Excluded directories
+		====================
+		For example, template compiled or template cache
+		<directory>MyProject/app/view/template_compile</directory>
+		<directory>MyProject/app/view/template_cache</directory>
+		
+		Another example, plugins for PHP / CSS / JS
+		<directory>MyProject/plugin</directory>
+		-->
+	</exclude>
+	<obfuscation active="0" />
+</configuration>
