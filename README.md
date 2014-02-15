@@ -1,0 +1,4 @@
+ChavMinifier
+============
+
+Web project minifier
